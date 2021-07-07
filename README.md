@@ -18,7 +18,15 @@ The following operations were performed:
 
 Here's a walkthrough of some implemented features:
 
-<img src='Numeric Matrix Processor.png' title='Walkthrough' width='' alt='Walkthrough' />
+
+<img src='https://github.com/Vladpetr/NewsPortal/blob/master/HyperNews%20Portal/task/Mainpage.png' title='Main Page' width='' />
+
+
+
+<img src='https://github.com/Vladpetr/NewsPortal/blob/master/HyperNews%20Portal/task/newsExample.png' title='Example' width='' />
+
+
+<img src='https://github.com/Vladpetr/NewsPortal/blob/master/HyperNews%20Portal/task/newsCreate.png' title='Create' width='' />
 
 ## License
 
